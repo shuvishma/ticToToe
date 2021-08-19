@@ -1,1 +1,1 @@
-# [https://shuvishma.github.io/ticToToe/] Live
+# [Tic Tac Toe](https://shuvishma.github.io/ticToToe/)
